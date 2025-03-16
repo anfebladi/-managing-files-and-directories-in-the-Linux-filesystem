@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-
+This project demonstrates the fundamental skills and commands necessary for managing directories in a Linux environment using the terminal. It provides a hands-on approach to creating, moving, renaming, and deleting directories, all through simple and effective command-line instructions.
 
 
 
